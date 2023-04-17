@@ -1,0 +1,12 @@
+Total users: 2
+Total tasks: 1
+
+User: admin
+Tasks assigned: 1
+Task percentage: 100.00%
+Completed tasks percentage: 0.00%
+Incomplete tasks percentage: 100.00%
+Overdue tasks percentage: 0.00%
+
+User: jack
+Tasks assigned: 0
