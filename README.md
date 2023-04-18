@@ -6,7 +6,7 @@ This project is a Task Management System that allows users to add tasks, view al
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Author](#author)
+- [Authors](#authors)
 
 ## Installation
 
