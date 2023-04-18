@@ -31,4 +31,4 @@ The main menu allows you to perform various actions, including adding tasks, vie
 
 ## Authors
 
-This project was created by Omer Kocpinar. The code was written by the student using knowledge gained from the bootcamp, as well as other resources such as freecodecamp and CodeAcademy.
+This project was created by Omer Kocpinar. The code was written by using knowledge gained from the bootcamp, as well as other resources such as freecodecamp and CodeAcademy.
